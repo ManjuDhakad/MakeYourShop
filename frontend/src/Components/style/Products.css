@@ -1,0 +1,16 @@
+#product_action_title{
+    display: inline;
+}
+.action_btn{
+    /* width: 70px;  */
+    height: 40px;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+}
+.action_btn:hover{
+    border: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

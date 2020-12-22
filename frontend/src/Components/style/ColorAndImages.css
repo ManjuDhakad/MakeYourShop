@@ -1,0 +1,10 @@
+#color_chooser{
+    width:50px
+}
+#doller{
+    display: inline-block;
+    background-color :grey;
+    font-size:20px;
+    width:20px;
+}
+

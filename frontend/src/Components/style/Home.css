@@ -1,0 +1,15 @@
+body{
+    height: 100%;
+    background-color: #F4F6F6 ;
+}
+.home-container
+{
+    width: 90%;
+    height: 100%;
+    margin: 0.5% 5% 0 2%;
+    font-family: 'Mr Dafoe', cursive;
+    background-color:white;
+}
+.home-img{
+    max-width: 90%;
+}

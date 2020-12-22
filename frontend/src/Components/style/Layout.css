@@ -1,0 +1,52 @@
+header{
+    height: 100px;
+    background-color:black;
+    font-family: 'Fontdiner Swanky', cursive;
+}
+
+.title{
+    margin-left: 30px;
+    display: inline;
+    color: white;
+}
+#s-id{
+    font-size: 60px;
+}
+ul{
+    margin-left: 6%;
+    display: inline;
+} 
+li{
+    display: inline;
+    list-style: none !important;
+    margin-right: 50px;
+    font-size: 20px;
+}
+#account_img{
+    border-radius: 50%;
+}
+.link{
+    text-decoration: none;
+    list-style: none !important;
+    color: white;
+}
+#search-box{
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+#search-btn{
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+footer{
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    font-family: 'Fontdiner Swanky', cursive;
+}
